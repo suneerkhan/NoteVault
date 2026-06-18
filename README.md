@@ -72,4 +72,3 @@ notevault/
 
 ---
 
-Built as Day 9 project for HEX20 Web Dev Workshop 🚀
